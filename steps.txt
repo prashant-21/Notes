@@ -1,0 +1,2 @@
+source 3_app/bin/activate
+python manage.py runserver
